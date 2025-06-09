@@ -1,21 +1,21 @@
 # Stock Price Prediction Project
 
 ![License](https://img.shields.io/github/license/yourusername/yourrepo?style=for-the-badge)
-![Python Version](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python)
+![Python Version](https://img.shields.io/badge/python-3.12-blue?style=for-the-badge&logo=python)
 
 ## Built With
 
 ![Python](https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%202.x-red?logo=tensorflow&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/tensorflow-2.x-red?logo=tensorflow&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/keras-deep%20learning-yellow?logo=TensorFlow&style=for-the-badge)
 ![Prophet](https://img.shields.io/badge/prophet-forecasting-orange?logo=meta&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/pandas-data analysis-green?logo=pandas&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/numpy-array computing-purple?logo=numpy&style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-machine learning-lightgreen?logo=scikitlearn&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/pandas-data%20analysis-green?logo=pandas&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/numpy-array%20computing-purple?logo=numpy&style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-machine%20learning-lightgreen?logo=scikitlearn&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-visualization-teal?logo=matplotlib&style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/seaborn-statistical plotting-blueviolet?logo=seaborn&style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/seaborn-statistical%20plotting-blueviolet?logo=seaborn&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/jupyter-notebook-yellow?logo=jupyter&style=for-the-badge)
-![YFinance](https://img.shields.io/badge/yfinance-stock data-indigo?style=for-the-badge)
+![YFinance](https://img.shields.io/badge/yfinance-stock%20data-indigo?style=for-the-badge)
 
 ## Project Overview
 
